@@ -5,4 +5,7 @@ scipy
 mlflow
 seaborn
 scikit-learn
+xgboost
+ipykernel
+joblib
 -e .
