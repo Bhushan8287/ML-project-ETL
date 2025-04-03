@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BW/Desktop/ML project/notebook/mlruns/532945962351718768/edc80f490c2740fa9f9e8af2ef8b78e1/artifacts
+end_time: 1743671106974
+entry_point_name: ''
+experiment_id: '532945962351718768'
+lifecycle_stage: active
+run_id: edc80f490c2740fa9f9e8af2ef8b78e1
+run_name: LinearRegression
+run_uuid: edc80f490c2740fa9f9e8af2ef8b78e1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743671106824
+status: 3
+tags: []
+user_id: BW

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BW/Desktop/ML project/notebook/mlruns/882127120724641985/14a86f1f82d6460da43a3763b331f186/artifacts
+end_time: 1743660424836
+entry_point_name: ''
+experiment_id: '882127120724641985'
+lifecycle_stage: active
+run_id: 14a86f1f82d6460da43a3763b331f186
+run_name: RandomForestRegressor
+run_uuid: 14a86f1f82d6460da43a3763b331f186
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743660403851
+status: 3
+tags: []
+user_id: BW

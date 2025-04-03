@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BW/Desktop/ML project/notebook/mlruns/439179376798962463/a6ac7b2831834166b1aeb4bb8e61438e/artifacts
+end_time: 1743660719503
+entry_point_name: ''
+experiment_id: '439179376798962463'
+lifecycle_stage: active
+run_id: a6ac7b2831834166b1aeb4bb8e61438e
+run_name: Ridge
+run_uuid: a6ac7b2831834166b1aeb4bb8e61438e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743660719394
+status: 3
+tags: []
+user_id: BW

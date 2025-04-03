@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BW/Desktop/ML project/notebook/mlruns/882127120724641985/6c060221b66a45bfada57926965befd6/artifacts
+end_time: 1743660427586
+entry_point_name: ''
+experiment_id: '882127120724641985'
+lifecycle_stage: active
+run_id: 6c060221b66a45bfada57926965befd6
+run_name: KNN
+run_uuid: 6c060221b66a45bfada57926965befd6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743660427462
+status: 3
+tags: []
+user_id: BW

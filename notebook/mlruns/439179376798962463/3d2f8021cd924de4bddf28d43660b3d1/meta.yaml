@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BW/Desktop/ML project/notebook/mlruns/439179376798962463/3d2f8021cd924de4bddf28d43660b3d1/artifacts
+end_time: 1743660719729
+entry_point_name: ''
+experiment_id: '439179376798962463'
+lifecycle_stage: active
+run_id: 3d2f8021cd924de4bddf28d43660b3d1
+run_name: ElasticNet
+run_uuid: 3d2f8021cd924de4bddf28d43660b3d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743660719627
+status: 3
+tags: []
+user_id: BW

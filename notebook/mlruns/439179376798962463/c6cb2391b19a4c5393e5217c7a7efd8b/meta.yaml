@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BW/Desktop/ML project/notebook/mlruns/439179376798962463/c6cb2391b19a4c5393e5217c7a7efd8b/artifacts
+end_time: 1743660719617
+entry_point_name: ''
+experiment_id: '439179376798962463'
+lifecycle_stage: active
+run_id: c6cb2391b19a4c5393e5217c7a7efd8b
+run_name: Lasso
+run_uuid: c6cb2391b19a4c5393e5217c7a7efd8b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743660719517
+status: 3
+tags: []
+user_id: BW

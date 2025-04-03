@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BW/Desktop/ML project/notebook/mlruns/882127120724641985/fef0e5c468684d27b10e0dae96571c52/artifacts
+end_time: 1743660427450
+entry_point_name: ''
+experiment_id: '882127120724641985'
+lifecycle_stage: active
+run_id: fef0e5c468684d27b10e0dae96571c52
+run_name: XGBoostRegressor
+run_uuid: fef0e5c468684d27b10e0dae96571c52
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743660425980
+status: 3
+tags: []
+user_id: BW

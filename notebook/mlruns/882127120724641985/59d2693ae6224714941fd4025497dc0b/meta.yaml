@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BW/Desktop/ML project/notebook/mlruns/882127120724641985/59d2693ae6224714941fd4025497dc0b/artifacts
+end_time: 1743660403842
+entry_point_name: ''
+experiment_id: '882127120724641985'
+lifecycle_stage: active
+run_id: 59d2693ae6224714941fd4025497dc0b
+run_name: DecisionTreeRegressor
+run_uuid: 59d2693ae6224714941fd4025497dc0b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743660403563
+status: 3
+tags: []
+user_id: BW

@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/BW/Desktop/ML project/notebook/mlruns/882127120724641985
+creation_time: 1743660402847
+experiment_id: '882127120724641985'
+last_update_time: 1743660402847
+lifecycle_stage: active
+name: Baseline metrics using Kfold cv (train splits only)

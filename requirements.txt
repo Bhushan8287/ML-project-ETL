@@ -8,4 +8,6 @@ scikit-learn
 xgboost
 ipykernel
 joblib
+shap
+mlflow
 -e .

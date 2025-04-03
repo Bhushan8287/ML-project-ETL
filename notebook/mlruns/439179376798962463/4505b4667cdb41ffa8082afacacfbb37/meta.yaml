@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BW/Desktop/ML project/notebook/mlruns/439179376798962463/4505b4667cdb41ffa8082afacacfbb37/artifacts
+end_time: 1743660735230
+entry_point_name: ''
+experiment_id: '439179376798962463'
+lifecycle_stage: active
+run_id: 4505b4667cdb41ffa8082afacacfbb37
+run_name: SVR
+run_uuid: 4505b4667cdb41ffa8082afacacfbb37
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743660734061
+status: 3
+tags: []
+user_id: BW
