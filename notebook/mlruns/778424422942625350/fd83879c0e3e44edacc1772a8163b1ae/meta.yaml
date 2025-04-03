@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BW/Desktop/ML project/notebook/mlruns/778424422942625350/fd83879c0e3e44edacc1772a8163b1ae/artifacts
+end_time: 1743682781696
+entry_point_name: ''
+experiment_id: '778424422942625350'
+lifecycle_stage: active
+run_id: fd83879c0e3e44edacc1772a8163b1ae
+run_name: Knn hypertuned
+run_uuid: fd83879c0e3e44edacc1772a8163b1ae
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743682779076
+status: 3
+tags: []
+user_id: BW

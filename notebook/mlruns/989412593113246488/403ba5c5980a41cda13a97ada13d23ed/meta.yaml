@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BW/Desktop/ML project/notebook/mlruns/989412593113246488/403ba5c5980a41cda13a97ada13d23ed/artifacts
+end_time: 1743681603254
+entry_point_name: ''
+experiment_id: '989412593113246488'
+lifecycle_stage: active
+run_id: 403ba5c5980a41cda13a97ada13d23ed
+run_name: Decision tree hypertued
+run_uuid: 403ba5c5980a41cda13a97ada13d23ed
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743681592405
+status: 3
+tags: []
+user_id: BW

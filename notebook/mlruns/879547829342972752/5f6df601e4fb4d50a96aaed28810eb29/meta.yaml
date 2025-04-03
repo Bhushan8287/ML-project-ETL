@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/BW/Desktop/ML project/notebook/mlruns/879547829342972752/5f6df601e4fb4d50a96aaed28810eb29/artifacts
+end_time: 1743682604655
+entry_point_name: ''
+experiment_id: '879547829342972752'
+lifecycle_stage: active
+run_id: 5f6df601e4fb4d50a96aaed28810eb29
+run_name: Xgboost hypertuned
+run_uuid: 5f6df601e4fb4d50a96aaed28810eb29
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1743681837461
+status: 3
+tags: []
+user_id: BW
