@@ -10,4 +10,5 @@ ipykernel
 joblib
 shap
 mlflow
+dill
 -e .
