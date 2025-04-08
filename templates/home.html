@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Predict Sales</title>
+    <style>
+        body {
+            background-color: #121212;
+            color: #e0e0e0;
+            font-family: Arial, sans-serif;
+            padding: 30px;
+        }
+        h2 {
+            text-align: center;
+        }
+        form {
+            background-color: #1e1e1e;
+            padding: 30px;
+            border-radius: 10px;
+            max-width: 500px;
+            margin: auto;
+            box-shadow: 0 0 10px #000;
+        }
+        label {
+            display: block;
+            margin-bottom: 10px;
+            margin-top: 20px;
+        }
+        input[type="text"], input[type="number"] {
+            width: 100%;
+            padding: 10px;
+            background-color: #2a2a2a;
+            border: 1px solid #444;
+            color: #fff;
+            border-radius: 5px;
+        }
+        input[type="submit"] {
+            margin-top: 20px;
+            width: 100%;
+            padding: 12px;
+            background-color: #03dac6;
+            border: none;
+            color: #000;
+            font-weight: bold;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+        input[type="submit"]:hover {
+            background-color: #00bfa5;
+        }
+        .result {
+            text-align: center;
+            margin-top: 40px;
+            font-size: 20px;
+            color: #90ee90;
+        }
+    </style>
+</head>
+<body>
+    <h2>Predict Today's Sales</h2>
+    <form action="/predictdata" method="post">
+        <label for="Number_of_Customers_Per_Day">Number of Customers Per Day:</label>
+        <input type="number" step="1" name="Number_of_Customers_Per_Day" required>
+
+        <label for="Average_Order_Value">Average Order Value:</label>
+        <input type="number" step="0.01" name="Average_Order_Value" required>
+
+        <label for="Marketing_Spend_Per_Day">Marketing Spend Per Day:</label>
+        <input type="number" step="0.01" name="Marketing_Spend_Per_Day" required>
+
+        <input type="submit" value="Predict">
+    </form>
+
+    {% if results %}
+        <div class="result">
+            <h3>📊 Predicted Sales: ₹{{ results | round(2) }}</h3>
+        </div>
+    {% endif %}
+</body>
+</html>

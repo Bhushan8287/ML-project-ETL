@@ -11,4 +11,5 @@ joblib
 shap
 mlflow
 dill
+flask
 -e .
