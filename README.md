@@ -135,6 +135,3 @@ mlflow ui
 - Implement CI/CD for model deployment
 
 ---
-
-### 📜 License
-[MIT License](LICENSE)
